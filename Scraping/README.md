@@ -18,6 +18,6 @@
 
 8. Now, Type ( scrapy runspider quotes_spiders.py -o quotes.xml ) [ also we can save csv & json ]   
 
-9. Now, You Will Get ( quotes.xml ) That Contain The Value Into spiders Folder
+9. Now, You Will Get ( quotes.xml ) That Contain The Values
 
 10. Install Visual Studio Code For Editing ( quotes_spiders.py ) File.
